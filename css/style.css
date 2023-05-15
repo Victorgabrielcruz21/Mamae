@@ -4,14 +4,7 @@ body{
     animation: piscar 1s infinite;
     background-color: pink;
 }
-@keyframes piscar {
-    0% {
-      visibility: visible;
-    }
-    50% {
-      visibility: hidden;
-    }
-  }
+
 #topbar{
     background-color: #e9b0b0  ;
     height: 50px;
